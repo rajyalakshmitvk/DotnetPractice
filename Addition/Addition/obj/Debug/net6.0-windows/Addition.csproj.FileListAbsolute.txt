@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Addition\Addition\bin\Debug\net6.0-windows\Addition.exe
+C:\Users\DELL\source\repos\Addition\Addition\bin\Debug\net6.0-windows\Addition.deps.json
+C:\Users\DELL\source\repos\Addition\Addition\bin\Debug\net6.0-windows\Addition.runtimeconfig.json
+C:\Users\DELL\source\repos\Addition\Addition\bin\Debug\net6.0-windows\Addition.dll
+C:\Users\DELL\source\repos\Addition\Addition\bin\Debug\net6.0-windows\Addition.pdb
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\Addition.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\Addition.Form1.resources
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\Addition.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\Addition.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\Addition.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\Addition.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\Addition.dll
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\refint\Addition.dll
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\Addition.pdb
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\Addition.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Addition\Addition\obj\Debug\net6.0-windows\ref\Addition.dll

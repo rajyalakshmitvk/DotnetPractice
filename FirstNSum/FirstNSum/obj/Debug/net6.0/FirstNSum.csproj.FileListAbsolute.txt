@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\bin\Debug\net6.0\FirstNSum.exe
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\bin\Debug\net6.0\FirstNSum.deps.json
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\bin\Debug\net6.0\FirstNSum.runtimeconfig.json
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\bin\Debug\net6.0\FirstNSum.dll
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\bin\Debug\net6.0\FirstNSum.pdb
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\obj\Debug\net6.0\FirstNSum.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\obj\Debug\net6.0\FirstNSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\obj\Debug\net6.0\FirstNSum.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\obj\Debug\net6.0\FirstNSum.AssemblyInfo.cs
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\obj\Debug\net6.0\FirstNSum.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\obj\Debug\net6.0\FirstNSum.dll
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\obj\Debug\net6.0\refint\FirstNSum.dll
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\obj\Debug\net6.0\FirstNSum.pdb
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\obj\Debug\net6.0\FirstNSum.genruntimeconfig.cache
+C:\Users\DELL\source\repos\FirstNSum\FirstNSum\obj\Debug\net6.0\ref\FirstNSum.dll
